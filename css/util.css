@@ -1,0 +1,25 @@
+* {
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 80px;
+    font: italic normal 900 80px/106px Roboto;
+}
+
+p {
+    font-size: 24px;
+    font: italic normal medium 20px/30px Roboto;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+.text-white {
+    color: #FFFFFF;
+}
+
+.text-black {
+    color: #000000;
+}
