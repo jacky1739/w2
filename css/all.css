@@ -17,3 +17,68 @@
     display: flex;
     justify-content: space-between;
 }
+.about {
+    height: 938px;
+    width: auto;
+    display: flex;
+}
+.about-body {
+    width: 412px;
+    margin: 0 auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.about-img {
+    width: 384px;
+    height: 384px;
+}
+.brand {
+    background-color: #000000;
+    height: auto;
+    width: auto;
+    display: flex;
+    padding-bottom: 160px;
+}
+.brand-body {
+    margin: 0 auto;
+    width: 1200px;
+}
+.brand-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.brand-list-1 {
+    width: 792px;
+    height: 416px;
+}
+.brand-list-2 {
+    width: 588px;
+    height: 416px;
+}
+.brand-list-3 {
+    width: 588px;
+    height: 416px;
+}
+.work {
+    background-color: #fff;
+}
+.work-body {
+    width: 1200px;
+    margin: 0 auto;
+}
+.work-group {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    background-color: #000000;
+    height: 300px;
+    display: flex;
+}
+.footer-body {
+    margin: 0 auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
